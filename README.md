@@ -41,7 +41,7 @@ Below is a plot of the Actual vs Predicted Ratings:
 
 🔧 Installation and Setup
 # Clone the repository
-git clone https://github.com/your_username/movie-rating-prediction.git
+git clone https://github.com/Jeevanreddygopidi/CODSOFT-TASK-1-MOVIE-RATING-PREDICTION.git
 cd movie-rating-prediction
 
 # Create a virtual environment (recommended)
@@ -74,3 +74,8 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request on GitHub.
+
+Contact
+For any questions or suggestions, please contact jeevanreddy.work@gmail.com
